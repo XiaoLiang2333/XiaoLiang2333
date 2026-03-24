@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><sub>IDG · 萝卜快跑 · 云驾智舱</sub></td>
+    <td align="center"><sub>IDG · 自动驾驶业务部 · 云驾智舱</sub></td>
     <td align="center"><sub>CSIG · 计算PAAS</sub></td>
     <td align="center"><sub>嵌入式软件部 · DevOps信息平台</sub></td>
   </tr>
